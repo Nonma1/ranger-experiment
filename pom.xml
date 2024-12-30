@@ -91,7 +91,7 @@
         <elasticsearch.version>7.10.2</elasticsearch.version>
         <enunciate.version>2.13.2</enunciate.version>
         <fasterxml.jackson.databind.version>2.17.2</fasterxml.jackson.databind.version>
-        <fasterxml.jackson.version>2.17.2</fasterxml.jackson.version>
+        <fasterxml.jackson.version>2.18.2</fasterxml.jackson.version>
         <fasterxml.woodstox.version>5.4.0</fasterxml.woodstox.version>
         <gcp.protobuf-java.version>3.19.6</gcp.protobuf-java.version>
 
