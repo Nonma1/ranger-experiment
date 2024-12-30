@@ -190,7 +190,7 @@
         <presto.validation-api.version>2.0.1.Final</presto.validation-api.version>
         <presto.version>333</presto.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <protobuf-java.version>3.19.6</protobuf-java.version>
+        <protobuf-java.version>3.25.5</protobuf-java.version>
         <ratis-thirdparty.version>0.7.0</ratis-thirdparty.version>
         <ratis.version>2.1.0</ratis.version>
         <reload4j.version>1.2.19</reload4j.version>
