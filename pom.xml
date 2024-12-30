@@ -114,7 +114,7 @@
         <htrace-core.version>4.1.0-incubating</htrace-core.version>
         <httpcomponents.httpasyncclient.version>4.1.4</httpcomponents.httpasyncclient.version>
         <httpcomponents.httpclient.version>4.5.13</httpcomponents.httpclient.version>
-        <httpcomponents.httpcore.version>4.4.14</httpcomponents.httpcore.version>
+        <httpcomponents.httpcore.version>4.4.16</httpcomponents.httpcore.version>
         <httpcomponents.httpmime.version>4.5.13</httpcomponents.httpmime.version>
         <io.opentelemetry-semconv.version>1.26.0-alpha</io.opentelemetry-semconv.version>
         <io.opentelemetry.version>1.40.0</io.opentelemetry.version>
