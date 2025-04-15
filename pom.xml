@@ -181,7 +181,7 @@
         <owasp-java-html-sanitizer.version>20211018.2</owasp-java-html-sanitizer.version>
         <ozone.version>1.4.0</ozone.version>
         <paranamer.version>2.3</paranamer.version>
-        <poi.version>5.2.2</poi.version>
+        <poi.version>5.4.0</poi.version>
         <!-- presto plugin deps -->
         <presto.airlift.version>0.192</presto.airlift.version>
         <presto.bval-jsr.version>2.0.0</presto.bval-jsr.version>
