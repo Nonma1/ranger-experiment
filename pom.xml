@@ -74,7 +74,7 @@
         <commons.digester.version>2.1</commons.digester.version>
         <commons.io.version>2.11.0</commons.io.version>
         <commons.lang.version>2.6</commons.lang.version>
-        <commons.lang3.version>3.3.2</commons.lang3.version>
+        <commons.lang3.version>3.18.0</commons.lang3.version>
         <commons.logging.version>1.2</commons.logging.version>
         <commons.math.version>2.2</commons.math.version>
         <commons.net.version>3.9.0</commons.net.version>
@@ -172,7 +172,7 @@
         <mysql-connector-java.version>5.1.49</mysql-connector-java.version>
         <net.minidev.asm.version>1.0.2</net.minidev.asm.version>
         <netty-all.version>4.1.100.Final</netty-all.version>
-        <nimbus-jose-jwt.version>9.31</nimbus-jose-jwt.version>
+        <nimbus-jose-jwt.version>10.0.2</nimbus-jose-jwt.version>
         <noggit.version>0.8</noggit.version>
         <orc.core.version>1.6.7</orc.core.version>
         <orc.version>1.5.8</orc.version>
@@ -215,7 +215,7 @@
         <storm.version>1.2.4</storm.version>
         <sun-jersey-bundle.version>1.19</sun-jersey-bundle.version>
         <testng.version>7.5.1</testng.version>
-        <tomcat.embed.version>8.5.94</tomcat.embed.version>
+        <tomcat.embed.version>9.0.106</tomcat.embed.version>
 
         <!-- trino plugin deps -->
         <trino.airlift.version>0.192</trino.airlift.version>
