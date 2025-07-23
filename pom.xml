@@ -107,7 +107,7 @@
         <hbase-shaded-miscellaneous>4.1.7</hbase-shaded-miscellaneous>
         <hbase-shaded-netty>4.1.7</hbase-shaded-netty>
         <hbase-shaded-protobuf>4.1.7</hbase-shaded-protobuf>
-        <hbase.version>2.6.0</hbase.version>
+        <hbase.version>2.6.2-hadoop3</hbase.version>
         <hive.storage-api.version>2.7.2</hive.storage-api.version>
         <hive.version>4.0.1</hive.version>
         <hppc.version>0.8.0</hppc.version>
