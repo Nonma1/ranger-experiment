@@ -79,7 +79,7 @@
         <commons.math.version>2.2</commons.math.version>
         <commons.net.version>3.9.0</commons.net.version>
         <commons.pool.version>1.6</commons.pool.version>
-        <commons.text.version>1.10.0</commons.text.version>
+        <commons.text.version>1.14.0</commons.text.version>
         <curator.test.version>5.4.0</curator.test.version>
         <curator.version>5.4.0</curator.version>
         <derby.version>10.14.2.0</derby.version>
