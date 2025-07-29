@@ -79,7 +79,7 @@
         <commons.math.version>2.2</commons.math.version>
         <commons.net.version>3.9.0</commons.net.version>
         <commons.pool.version>1.6</commons.pool.version>
-        <commons.text.version>1.10.0</commons.text.version>
+        <commons.text.version>1.14.0</commons.text.version>
         <curator.test.version>5.4.0</curator.test.version>
         <curator.version>5.4.0</curator.version>
         <derby.version>10.14.2.0</derby.version>
@@ -102,7 +102,7 @@
         <gson.version>2.9.0</gson.version>
         <guice.version>4.0</guice.version>
         <hadoop-shaded-guava.version>1.1.1</hadoop-shaded-guava.version>
-        <hadoop.version>3.4.0</hadoop.version>
+        <hadoop.version>3.4.1</hadoop.version>
         <hamcrest.version>2.2</hamcrest.version>
         <hbase-shaded-miscellaneous>4.1.7</hbase-shaded-miscellaneous>
         <hbase-shaded-netty>4.1.7</hbase-shaded-netty>
@@ -201,7 +201,7 @@
         <servlet.api.version>2.5</servlet.api.version>
         <slf4j-api.version>2.0.13</slf4j-api.version>
         <slf4j.version>2.0.13</slf4j.version>
-        <solr.version>9.6.0</solr.version>
+        <solr.version>9.9.0</solr.version>
         <sonar.dynamicAnalysis>reuseReports</sonar.dynamicAnalysis>
         <sonar.java.coveragePlugin>jacoco</sonar.java.coveragePlugin>
         <sonar.language>java</sonar.language>
