@@ -81,7 +81,7 @@
         <commons.pool.version>1.6</commons.pool.version>
         <commons.text.version>1.10.0</commons.text.version>
         <curator.test.version>5.4.0</curator.test.version>
-        <curator.version>5.4.0</curator.version>
+        <curator.version>5.9.0</curator.version>
         <derby.version>10.14.2.0</derby.version>
         <distMgmtStagingId>apache.staging.https</distMgmtStagingId>
         <distMgmtStagingName>Apache Release Distribution Repository</distMgmtStagingName>
@@ -102,7 +102,7 @@
         <gson.version>2.9.0</gson.version>
         <guice.version>4.0</guice.version>
         <hadoop-shaded-guava.version>1.1.1</hadoop-shaded-guava.version>
-        <hadoop.version>3.4.0</hadoop.version>
+        <hadoop.version>3.4.1</hadoop.version>
         <hamcrest.version>2.2</hamcrest.version>
         <hbase-shaded-miscellaneous>4.1.7</hbase-shaded-miscellaneous>
         <hbase-shaded-netty>4.1.7</hbase-shaded-netty>
