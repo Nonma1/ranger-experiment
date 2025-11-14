@@ -96,7 +96,7 @@
         <gcp.protobuf-java.version>3.19.6</gcp.protobuf-java.version>
 
         <!-- GCP HSM -->
-        <google.cloud.kms>2.3.0</google.cloud.kms>
+        <google.cloud.kms>2.82.0</google.cloud.kms>
         <googlecode.log4jdbc.version>1.2</googlecode.log4jdbc.version>
         <graalvm.version>22.3.0</graalvm.version>
         <gson.version>2.9.0</gson.version>
