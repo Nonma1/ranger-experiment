@@ -178,7 +178,7 @@
         <orc.version>1.5.8</orc.version>
         <org.bouncycastle.bcpkix-jdk15on>1.70</org.bouncycastle.bcpkix-jdk15on>
         <org.bouncycastle.bcprov-jdk15on>1.70</org.bouncycastle.bcprov-jdk15on>
-        <owasp-java-html-sanitizer.version>20211018.2</owasp-java-html-sanitizer.version>
+        <owasp-java-html-sanitizer.version>20260101.1</owasp-java-html-sanitizer.version>
         <ozone.version>1.4.0</ozone.version>
         <paranamer.version>2.3</paranamer.version>
         <poi.version>5.2.2</poi.version>
