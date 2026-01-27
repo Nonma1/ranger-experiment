@@ -183,7 +183,7 @@
         <paranamer.version>2.3</paranamer.version>
         <poi.version>5.2.2</poi.version>
         <!-- presto plugin deps -->
-        <presto.airlift.version>0.192</presto.airlift.version>
+        <presto.airlift.version>226</presto.airlift.version>
         <presto.bval-jsr.version>2.0.0</presto.bval-jsr.version>
         <presto.guice.version>4.2.2</presto.guice.version>
         <presto.re2j.version>1.1</presto.re2j.version>
